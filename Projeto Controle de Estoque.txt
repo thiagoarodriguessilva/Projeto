@@ -1,0 +1,9 @@
+COMO UTILIZAR O PROJETO
+
+Entrar no site: https://acesso.cronapp.io/#
+
+Logar com conta do google: e-mail: projetoparatrabalho@gmail.com / Senha: projetosenha
+
+Abrir o programa com a função "Debug" e testar o funcionamento. Login de teste: Login:admin / Senha:admin
+
+PS: Não consegui fazer o download devido ao programa ser pago.
